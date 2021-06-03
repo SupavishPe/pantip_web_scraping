@@ -6,4 +6,4 @@ WEBSITE = f'https://pantip.com/tag/{TAG_NAME}'
 SEPERATE_COMMENT = '|'
 PAUSE_TIME_FOR_SCROLLING = 2 #sec
 PAUSE_TIME_BTW_TOPIC = 1 #sec
-N_SCROLL = 0 #times
+N_SCROLL = 1 #times
