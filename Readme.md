@@ -2,6 +2,9 @@
 
 Scrap {title, story, comment} searched by tag at pantip.com
 
+How to check chrome version : 
+* Open chrome -> Help -> About google chrome 
+
 How to run: 
 1. download selenium driver at https://chromedriver.chromium.org/downloads and move into this working directory.
 2. create new environment
